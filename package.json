@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/matlegdal/demo-mapbox-gl/issues"
   },
-  "homepage": "https://github.com/matlegdal/demo-mapbox-gl#readme"
+  "homepage": "https://github.com/matlegdal/demo-mapbox-gl#readme",
+  "dependencies": {
+    "mapbox-gl": "^0.45.0"
+  }
 }
